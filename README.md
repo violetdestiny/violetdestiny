@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @violetdestiny
 - 👀 I’m interested in my second year of my Software Development degree
-- 🌱 I’m currently learning java , C++, PHP, JAVASCRIPT, SQL, CSS, HTML
+- 🌱 I’m currently learning java , C++, PHP, JAVASCRIPT, SQL, CSS, HTML, Kotlin and Python 
 
 - 📫 you can reach me at ikramlayla2006@gmail.com
 - 😄 Pronouns: she/her
